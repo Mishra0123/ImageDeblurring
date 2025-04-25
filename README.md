@@ -8,7 +8,7 @@ This project demonstrates image deblurring using Python. The Jupyter Notebook `I
 ```
 .
 ├── Image_deblur_pynb.ipynb
-├── sample_input_images/       # Optional folder for input images
+├── sample_input_images/       
 └── README.md
 ```
 
